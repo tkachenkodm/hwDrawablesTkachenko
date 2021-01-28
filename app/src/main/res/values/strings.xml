@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hwDrawables</string>
+    <string name="draw_mustache">Draw mustache</string>
+    <string name="load_picture">Load picture</string>
+</resources>
